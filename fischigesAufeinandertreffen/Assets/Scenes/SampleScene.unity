@@ -363,7 +363,7 @@ GameObject:
   - component: {fileID: 1043275045}
   - component: {fileID: 1043275044}
   m_Layer: 0
-  m_Name: "der B\xE4r"
+  m_Name: Der nichtBeer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
